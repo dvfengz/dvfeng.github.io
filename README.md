@@ -3,7 +3,7 @@
 ## Projects
 ### Project 1
 - Description
-- link
+- [https://www.roblox.com/users/8662511300/profile]
 
 
 ### Project 2
