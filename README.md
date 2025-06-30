@@ -8,4 +8,4 @@
 
 ### idk
 - ok
-- [bruh](https://tenor.com/view/skull-grin-spin-skull-emoji-skull-grin-gif-25389326)
+- ![bruh](https://tenor.com/view/skull-grin-spin-skull-emoji-skull-grin-gif-25389326)
