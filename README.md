@@ -8,4 +8,4 @@
 
 ### idk
 - ok
-- ![bruh]()
+- ![bruh](docs/assets/skull-grin.gif)
