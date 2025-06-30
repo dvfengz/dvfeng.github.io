@@ -1,18 +1,11 @@
 # dvfeng.github.io
 
-## Projects
-### Project 1
+## SOCIALS
+### socials ig
 - Description
-- [https://www.roblox.com/users/8662511300/profile]
+- [ME](https://www.roblox.com/users/8662511300/profile)
 
 
-### Project 2
-- Description
-- Links
-
-# Education
-- (Not) University
-
-# Work History
-- Work place 1
-- Work place 2
+### idk
+- ok
+- [bruh](https://tenor.com/view/skull-grin-spin-skull-emoji-skull-grin-gif-25389326)
